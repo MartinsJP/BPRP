@@ -1,2 +1,2 @@
-# BPRP
-Barra de progresso de rolagem da página
+# CBPMCF
+Carregando barra de progresso com mudança de cor de fundo
